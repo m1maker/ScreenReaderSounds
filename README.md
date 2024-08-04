@@ -6,6 +6,8 @@ The add-on can handle focus events, keyboard events, and much more.
 # Requirements
 Un4seen Developments Bass 32 bit
 https://www.un4seen.com
+
 NVDA 2021 and >
+
 # Building
 Pack the contents of the Source folder into a Zip archive with the extension .nvda-addon
